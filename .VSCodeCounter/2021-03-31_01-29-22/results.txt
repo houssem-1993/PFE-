@@ -1,0 +1,50 @@
+Date : 2021-03-31 01:29:22
+Directory : c:\Users\User\Desktop\SAP\backend
+Total : 19 files,  544 codes, 30 comments, 96 blanks, all 670 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         19 |        544 |         30 |         96 |        670 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                  |         19 |        544 |         30 |         96 |        670 |
+| config                                                             |          1 |         15 |          0 |          3 |         18 |
+| controllers                                                        |          3 |        132 |         30 |         31 |        193 |
+| data                                                               |          3 |         95 |          0 |          8 |        103 |
+| middleWares                                                        |          2 |         44 |          0 |         12 |         56 |
+| models                                                             |          4 |        154 |          0 |         15 |        169 |
+| routes                                                             |          3 |         21 |          0 |          9 |         30 |
+| utils                                                              |          1 |          7 |          0 |          2 |          9 |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                           | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\User\Desktop\SAP\backend\config\db.js                     | JavaScript |         15 |          0 |          3 |         18 |
+| c:\Users\User\Desktop\SAP\backend\controllers\newsController.js    | JavaScript |         16 |          6 |          6 |         28 |
+| c:\Users\User\Desktop\SAP\backend\controllers\productController.js | JavaScript |         19 |          6 |          7 |         32 |
+| c:\Users\User\Desktop\SAP\backend\controllers\userController.js    | JavaScript |         97 |         18 |         18 |        133 |
+| c:\Users\User\Desktop\SAP\backend\data\news.js                     | JavaScript |         20 |          0 |          1 |         21 |
+| c:\Users\User\Desktop\SAP\backend\data\products.js                 | JavaScript |         53 |          0 |          6 |         59 |
+| c:\Users\User\Desktop\SAP\backend\data\users.js                    | JavaScript |         22 |          0 |          1 |         23 |
+| c:\Users\User\Desktop\SAP\backend\middleWares\authMiddleware.js    | JavaScript |         30 |          0 |          9 |         39 |
+| c:\Users\User\Desktop\SAP\backend\middleWares\errorMiddleware.js   | JavaScript |         14 |          0 |          3 |         17 |
+| c:\Users\User\Desktop\SAP\backend\models\newsModel.js              | JavaScript |         23 |          0 |          2 |         25 |
+| c:\Users\User\Desktop\SAP\backend\models\orderModel.js             | JavaScript |         51 |          0 |          2 |         53 |
+| c:\Users\User\Desktop\SAP\backend\models\productModel.js           | JavaScript |         43 |          0 |          4 |         47 |
+| c:\Users\User\Desktop\SAP\backend\models\userModel.js              | JavaScript |         37 |          0 |          7 |         44 |
+| c:\Users\User\Desktop\SAP\backend\routes\newsRoutes.js             | JavaScript |          6 |          0 |          2 |          8 |
+| c:\Users\User\Desktop\SAP\backend\routes\productRoutes.js          | JavaScript |          6 |          0 |          4 |         10 |
+| c:\Users\User\Desktop\SAP\backend\routes\userRoutes.js             | JavaScript |          9 |          0 |          3 |         12 |
+| c:\Users\User\Desktop\SAP\backend\seeder.js                        | JavaScript |         54 |          0 |          9 |         63 |
+| c:\Users\User\Desktop\SAP\backend\server.js                        | JavaScript |         22 |          0 |          7 |         29 |
+| c:\Users\User\Desktop\SAP\backend\utils\generateToken.js           | JavaScript |          7 |          0 |          2 |          9 |
+| Total                                                              |            |        544 |         30 |         96 |        670 |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
