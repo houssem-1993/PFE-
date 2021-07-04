@@ -25,11 +25,15 @@ import AlertComponent from "./components/AlertComponent";
 
 const App = () => {
   return (
-    <>
+    <div
+      style={{
+        minHeight: "100vh",
+      }}
+    >
       <AlertComponent />
       <Router>
         <Header />
-        <main className="py-3">
+        <main className="py-3" style={{ minHeight: "80vh" }}>
           <Container>
             <Route path="/" component={HomeScreen} exact />
             <Route path="/product/:id" component={ProductScreen} exact />
@@ -57,7 +61,7 @@ const App = () => {
         </main>
         <Footer />
       </Router>
-    </>
+    </div>
   );
 };
 
